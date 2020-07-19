@@ -9,7 +9,7 @@
 <img src="images/MacOSHome.png" width=350>
 </a>
 <a>
-<img src="images/MacOsSearch1.png" width= 350>
+<img src="images/MacOSSearch1.png" width= 350>
 </a>
 <a>
 <img src="images/MacOsAdd.png" width= 350>
