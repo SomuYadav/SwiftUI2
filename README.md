@@ -37,7 +37,7 @@
 <img src="images/iPhoneLove4.png" width= 270>
 </a>
 <a>
-<img src="mages/iPhoneProfile.png" width= 270>
+<img src="images/iPhoneProfile.png" width= 270>
 </a>
 </p>
 
