@@ -6,19 +6,19 @@
 
 <p align="center">
 <a>
-<img src="images/MacOSHome.png" width=270>
+<img src="images/MacOSHome.png" width=350>
 </a>
 <a>
-<img src="images/MacOsSearch.png" width= 270>
+<img src="images/MacOsSearch.png" width= 350>
 </a>
 <a>
-<img src="images/MacOsAdd.png" width= 270>
+<img src="images/MacOsAdd.png" width= 350>
 </a>
  <a>
-<img src="images/MacOSLove1.png" width= 270>
+<img src="images/MacOSLove1.png" width= 350>
 </a>
 <a>
-<img src="images/MacOsProfile.png" width= 270>
+<img src="images/MacOsProfile.png" width= 350>
 </a>
 </p>
 
@@ -45,19 +45,19 @@
 
 <p align="center">
 <a>
-<img src="images/iPadHome.png" width=270>
+<img src="images/iPadHome.png" width=320>
 </a>
 <a>
-<img src="images/iPadSearch2.png" width= 270>
+<img src="images/iPadSearch2.png" width= 320>
 </a>
 <a>
-<img src="images/iPadAdd1.png" width= 270>
+<img src="images/iPadAdd1.png" width= 320>
 </a>
  <a>
-<img src="images/iPadLove1.png" width= 270>
+<img src="images/iPadLove1.png" width= 320>
 </a>
 <a>
-<img src="images/iPadProfile2.png" width= 270>
+<img src="images/iPadProfile2.png" width= 320>
 </a>
 </p>
 
