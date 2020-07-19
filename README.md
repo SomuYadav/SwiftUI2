@@ -1,6 +1,6 @@
 #  Insta View
 
->  I developed a instagram like app in SwiftUI for iOS, iPadOS and  macOS.
+> Instagram like app in SwiftUI for iOS, iPadOS and  macOS.
  
 ## macOS
 
