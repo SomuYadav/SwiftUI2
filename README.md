@@ -3,11 +3,11 @@
 >  I develoved a instagram like app in SwiftUI for  iOS, iPadOS and  macOS.
  
 ## macOS
-[ ]("mages/MacOSHome.png")
-[ ]("mages/MacOsSearch.png")
+[ ]("images/MacOSHome.png")
+[ ]("images/MacOsSearch.png")
 [ ]("images/MacOsAdd.png")
 [ ]("images/MacOSLove1.png")
-[ ]("mages/MacOsProfile.png")
+[ ]("images/MacOsProfile.png")
 
 ## iOS
 [ ]("images/iPhoneHome.png")
