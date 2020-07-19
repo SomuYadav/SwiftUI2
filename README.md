@@ -6,7 +6,7 @@
 
 <p align="center">
 <a>
-<img src="images/MacOSHome" width=270>
+<img src="images/MacOSHome.png" width=270>
 </a>
 <a>
 <img src="images/MacOsSearch.png" width= 270>
@@ -18,24 +18,47 @@
 <img src="images/MacOSLove1.png" width= 270>
 </a>
 <a>
-<img src="images/MacOsProfile" width= 270>
+<img src="images/MacOsProfile.png" width= 270>
 </a>
 </p>
 
 ## iOS
-![](images/iPhoneHome.png)
-![](images/iPhoneSearch2.png)
-![](images/iPhoneAdd.png)
-![](images/iPhoneLove4.png)
-![](mages/iPhoneProfile.png)
+<p align="center">
+<a>
+<img src="images/iPhoneHome.png" width=270>
+</a>
+<a>
+<img src="images/iPhoneSearch2.png" width= 270>
+</a>
+<a>
+<img src="images/iPhoneAdd.png" width= 270>
+</a>
+ <a>
+<img src="images/iPhoneLove4.png" width= 270>
+</a>
+<a>
+<img src="mages/iPhoneProfile.png" width= 270>
+</a>
+</p>
 
 ## iPadOS
-![](images/iPadHome.png)
-![](images/iPadSearch2.png)
-![](images/iPadAdd1.png)
-![](images/iPadLove1.png)
-![](images/iPadProfile2.png)
 
-![](images/WholeOS.png)
+<p align="center">
+<a>
+<img src="images/iPadHome.png" width=270>
+</a>
+<a>
+<img src="images/iPadSearch2.png" width= 270>
+</a>
+<a>
+<img src="images/iPadAdd1.png" width= 270>
+</a>
+ <a>
+<img src="images/iPadLove1.png" width= 270>
+</a>
+<a>
+<img src="images/iPadProfile2.png" width= 270>
+</a>
+</p>
 
 
