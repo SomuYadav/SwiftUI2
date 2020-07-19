@@ -3,11 +3,24 @@
 >  I developed a instagram like app in SwiftUI for iOS, iPadOS and  macOS.
  
 ## macOS
-![](images/MacOSHome.png)
-![](images/MacOsSearch.png)
-![](images/MacOsAdd.png)
-![](images/MacOSLove1.png)
-![](images/MacOsProfile.png)
+
+<p align="center">
+<a>
+<img src="images/MacOSHome" width=270>
+</a>
+<a>
+<img src="images/MacOsSearch.png" width= 270>
+</a>
+<a>
+<img src="images/MacOsAdd.png" width= 270>
+</a>
+ <a>
+<img src="images/MacOSLove1.png" width= 270>
+</a>
+<a>
+<img src="images/MacOsProfile" width= 270>
+</a>
+</p>
 
 ## iOS
 ![](images/iPhoneHome.png)
