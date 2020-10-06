@@ -1,7 +1,7 @@
 #  Insta View
 
 > Instagram like app in SwiftUI for iOS, iPadOS and  macOS.
-<img src="images/MacOSHome.png" width=600>
+<img src="images/SwiftUI2.0" width=600>
  
 ## macOS
 
